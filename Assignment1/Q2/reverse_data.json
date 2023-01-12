@@ -1,0 +1,18 @@
+[
+    {
+        "animal": "Dog",
+        "height": "0.5m"
+    },
+    {
+        "animal": "Tiger",
+        "height": "2m"
+    },
+    {
+        "animal": "Giraffe",
+        "height": "5m"
+    },
+    {
+        "animal": "Lion",
+        "height": "1m"
+    }
+]
