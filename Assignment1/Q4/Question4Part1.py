@@ -8,4 +8,3 @@ for id,entry in enumerate(content):
 
 with open("data.json","w") as outFile:
     outFile.write(json.dumps(content, indent = 4))
-outFile.close()

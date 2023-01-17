@@ -14,7 +14,6 @@ for entry in content:
         count += 1
         average += entry['speed']
 
-print(count)
-print(average)
+print('Number of entries where speed > 5:',count)
 average /= count
-print(average)
+print('Average speed:',average)
