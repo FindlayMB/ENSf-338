@@ -9,7 +9,7 @@ def fibonacci(n):
 
 def main():
     for n in range(2):
-        print(fibonacci(n))
+        print(f'Fibonacci number when n = {n} is {fibonacci(n)}')
 
 if __name__ == '__main__':
     main()

@@ -1,0 +1,1897 @@
+[
+ {
+   "Date": "31-01-1990",
+   "United States(USD)": 415.1,
+   "South Africa(ZAR)": 1063.2
+ },
+ {
+   "Date": "28-02-1990",
+   "United States(USD)": 407.7,
+   "South Africa(ZAR)": 1040.4
+ },
+ {
+   "Date": "30-03-1990",
+   "United States(USD)": 368.5,
+   "South Africa(ZAR)": 976.9
+ },
+ {
+   "Date": "30-04-1990",
+   "United States(USD)": 367.8,
+   "South Africa(ZAR)": 975.8
+ },
+ {
+   "Date": "31-05-1990",
+   "United States(USD)": 363.1,
+   "South Africa(ZAR)": 967.3
+ },
+ {
+   "Date": "29-06-1990",
+   "United States(USD)": 352.2,
+   "South Africa(ZAR)": 936
+ },
+ {
+   "Date": "31-07-1990",
+   "United States(USD)": 372.3,
+   "South Africa(ZAR)": 963.1
+ },
+ {
+   "Date": "31-08-1990",
+   "United States(USD)": 387.8,
+   "South Africa(ZAR)": 996
+ },
+ {
+   "Date": "28-09-1990",
+   "United States(USD)": 408.4,
+   "South Africa(ZAR)": 1045.6
+ },
+ {
+   "Date": "31-10-1990",
+   "United States(USD)": 379.5,
+   "South Africa(ZAR)": 965.2
+ },
+ {
+   "Date": "30-11-1990",
+   "United States(USD)": 384.9,
+   "South Africa(ZAR)": 967.2
+ },
+ {
+   "Date": "31-12-1990",
+   "United States(USD)": 386.2,
+   "South Africa(ZAR)": 1000.3
+ },
+ {
+   "Date": "31-01-1991",
+   "United States(USD)": 366,
+   "South Africa(ZAR)": 930
+ },
+ {
+   "Date": "28-02-1991",
+   "United States(USD)": 362.7,
+   "South Africa(ZAR)": 931.1
+ },
+ {
+   "Date": "29-03-1991",
+   "United States(USD)": 355.7,
+   "South Africa(ZAR)": 971.9
+ },
+ {
+   "Date": "30-04-1991",
+   "United States(USD)": 357.8,
+   "South Africa(ZAR)": 992.3
+ },
+ {
+   "Date": "31-05-1991",
+   "United States(USD)": 360.4,
+   "South Africa(ZAR)": 1024
+ },
+ {
+   "Date": "28-06-1991",
+   "United States(USD)": 368.4,
+   "South Africa(ZAR)": 1063.9
+ },
+ {
+   "Date": "31-07-1991",
+   "United States(USD)": 362.9,
+   "South Africa(ZAR)": 1040.8
+ },
+ {
+   "Date": "30-08-1991",
+   "United States(USD)": 347.4,
+   "South Africa(ZAR)": 1002.1
+ },
+ {
+   "Date": "30-09-1991",
+   "United States(USD)": 354.9,
+   "South Africa(ZAR)": 993.3
+ },
+ {
+   "Date": "31-10-1991",
+   "United States(USD)": 357.5,
+   "South Africa(ZAR)": 1010.1
+ },
+ {
+   "Date": "29-11-1991",
+   "United States(USD)": 366.3,
+   "South Africa(ZAR)": 1022.3
+ },
+ {
+   "Date": "31-12-1991",
+   "United States(USD)": 353.2,
+   "South Africa(ZAR)": 968.5
+ },
+ {
+   "Date": "31-01-1992",
+   "United States(USD)": 354.1,
+   "South Africa(ZAR)": 993.8
+ },
+ {
+   "Date": "28-02-1992",
+   "United States(USD)": 353.1,
+   "South Africa(ZAR)": 1007.2
+ },
+ {
+   "Date": "31-03-1992",
+   "United States(USD)": 341.7,
+   "South Africa(ZAR)": 985.3
+ },
+ {
+   "Date": "30-04-1992",
+   "United States(USD)": 336.4,
+   "South Africa(ZAR)": 963.5
+ },
+ {
+   "Date": "29-05-1992",
+   "United States(USD)": 337.5,
+   "South Africa(ZAR)": 957.3
+ },
+ {
+   "Date": "30-06-1992",
+   "United States(USD)": 343.4,
+   "South Africa(ZAR)": 951.8
+ },
+ {
+   "Date": "31-07-1992",
+   "United States(USD)": 357.9,
+   "South Africa(ZAR)": 989.3
+ },
+ {
+   "Date": "31-08-1992",
+   "United States(USD)": 340,
+   "South Africa(ZAR)": 931.7
+ },
+ {
+   "Date": "30-09-1992",
+   "United States(USD)": 349,
+   "South Africa(ZAR)": 974
+ },
+ {
+   "Date": "30-10-1992",
+   "United States(USD)": 339.3,
+   "South Africa(ZAR)": 1004.8
+ },
+ {
+   "Date": "30-11-1992",
+   "United States(USD)": 334.2,
+   "South Africa(ZAR)": 1005.3
+ },
+ {
+   "Date": "31-12-1992",
+   "United States(USD)": 332.9,
+   "South Africa(ZAR)": 1017.8
+ },
+ {
+   "Date": "29-01-1993",
+   "United States(USD)": 330.5,
+   "South Africa(ZAR)": 1017.4
+ },
+ {
+   "Date": "26-02-1993",
+   "United States(USD)": 327.6,
+   "South Africa(ZAR)": 1027.4
+ },
+ {
+   "Date": "31-03-1993",
+   "United States(USD)": 337.8,
+   "South Africa(ZAR)": 1073
+ },
+ {
+   "Date": "30-04-1993",
+   "United States(USD)": 354.3,
+   "South Africa(ZAR)": 1122.1
+ },
+ {
+   "Date": "31-05-1993",
+   "United States(USD)": 377.5,
+   "South Africa(ZAR)": 1198.8
+ },
+ {
+   "Date": "30-06-1993",
+   "United States(USD)": 378.5,
+   "South Africa(ZAR)": 1273.7
+ },
+ {
+   "Date": "30-07-1993",
+   "United States(USD)": 401.8,
+   "South Africa(ZAR)": 1352.7
+ },
+ {
+   "Date": "31-08-1993",
+   "United States(USD)": 371.6,
+   "South Africa(ZAR)": 1255.5
+ },
+ {
+   "Date": "30-09-1993",
+   "United States(USD)": 355.5,
+   "South Africa(ZAR)": 1230.1
+ },
+ {
+   "Date": "29-10-1993",
+   "United States(USD)": 369.6,
+   "South Africa(ZAR)": 1240.4
+ },
+ {
+   "Date": "30-11-1993",
+   "United States(USD)": 370.9,
+   "South Africa(ZAR)": 1252
+ },
+ {
+   "Date": "31-12-1993",
+   "United States(USD)": 391.8,
+   "South Africa(ZAR)": 1327.2
+ },
+ {
+   "Date": "31-01-1994",
+   "United States(USD)": 377.9,
+   "South Africa(ZAR)": 1293.3
+ },
+ {
+   "Date": "28-02-1994",
+   "United States(USD)": 381.6,
+   "South Africa(ZAR)": 1324.6
+ },
+ {
+   "Date": "31-03-1994",
+   "United States(USD)": 389.2,
+   "South Africa(ZAR)": 1354.7
+ },
+ {
+   "Date": "29-04-1994",
+   "United States(USD)": 376.5,
+   "South Africa(ZAR)": 1325.3
+ },
+ {
+   "Date": "31-05-1994",
+   "United States(USD)": 387.6,
+   "South Africa(ZAR)": 1407.2
+ },
+ {
+   "Date": "30-06-1994",
+   "United States(USD)": 388.3,
+   "South Africa(ZAR)": 1407.2
+ },
+ {
+   "Date": "29-07-1994",
+   "United States(USD)": 384,
+   "South Africa(ZAR)": 1412.2
+ },
+ {
+   "Date": "31-08-1994",
+   "United States(USD)": 385.8,
+   "South Africa(ZAR)": 1383.8
+ },
+ {
+   "Date": "30-09-1994",
+   "United States(USD)": 394.9,
+   "South Africa(ZAR)": 1408.2
+ },
+ {
+   "Date": "31-10-1994",
+   "United States(USD)": 383.9,
+   "South Africa(ZAR)": 1344
+ },
+ {
+   "Date": "30-11-1994",
+   "United States(USD)": 383.1,
+   "South Africa(ZAR)": 1361.1
+ },
+ {
+   "Date": "30-12-1994",
+   "United States(USD)": 383.3,
+   "South Africa(ZAR)": 1358.4
+ },
+ {
+   "Date": "31-01-1995",
+   "United States(USD)": 374.9,
+   "South Africa(ZAR)": 1324.6
+ },
+ {
+   "Date": "28-02-1995",
+   "United States(USD)": 376.4,
+   "South Africa(ZAR)": 1355.9
+ },
+ {
+   "Date": "31-03-1995",
+   "United States(USD)": 392,
+   "South Africa(ZAR)": 1402
+ },
+ {
+   "Date": "28-04-1995",
+   "United States(USD)": 389.8,
+   "South Africa(ZAR)": 1409.8
+ },
+ {
+   "Date": "31-05-1995",
+   "United States(USD)": 384.3,
+   "South Africa(ZAR)": 1414.2
+ },
+ {
+   "Date": "30-06-1995",
+   "United States(USD)": 387.1,
+   "South Africa(ZAR)": 1407.4
+ },
+ {
+   "Date": "31-07-1995",
+   "United States(USD)": 383.4,
+   "South Africa(ZAR)": 1387.7
+ },
+ {
+   "Date": "31-08-1995",
+   "United States(USD)": 382.4,
+   "South Africa(ZAR)": 1398.6
+ },
+ {
+   "Date": "29-09-1995",
+   "United States(USD)": 384,
+   "South Africa(ZAR)": 1402.1
+ },
+ {
+   "Date": "31-10-1995",
+   "United States(USD)": 382.7,
+   "South Africa(ZAR)": 1395.5
+ },
+ {
+   "Date": "30-11-1995",
+   "United States(USD)": 387.8,
+   "South Africa(ZAR)": 1422.1
+ },
+ {
+   "Date": "29-12-1995",
+   "United States(USD)": 387,
+   "South Africa(ZAR)": 1410.8
+ },
+ {
+   "Date": "31-01-1996",
+   "United States(USD)": 405.6,
+   "South Africa(ZAR)": 1480.2
+ },
+ {
+   "Date": "29-02-1996",
+   "United States(USD)": 400.7,
+   "South Africa(ZAR)": 1550.5
+ },
+ {
+   "Date": "29-03-1996",
+   "United States(USD)": 396.4,
+   "South Africa(ZAR)": 1576.8
+ },
+ {
+   "Date": "30-04-1996",
+   "United States(USD)": 391.3,
+   "South Africa(ZAR)": 1691.4
+ },
+ {
+   "Date": "31-05-1996",
+   "United States(USD)": 390.6,
+   "South Africa(ZAR)": 1702.8
+ },
+ {
+   "Date": "28-06-1996",
+   "United States(USD)": 382,
+   "South Africa(ZAR)": 1654.3
+ },
+ {
+   "Date": "31-07-1996",
+   "United States(USD)": 385.3,
+   "South Africa(ZAR)": 1736.7
+ },
+ {
+   "Date": "30-08-1996",
+   "United States(USD)": 386.5,
+   "South Africa(ZAR)": 1734.2
+ },
+ {
+   "Date": "30-09-1996",
+   "United States(USD)": 379,
+   "South Africa(ZAR)": 1719.3
+ },
+ {
+   "Date": "31-10-1996",
+   "United States(USD)": 379.5,
+   "South Africa(ZAR)": 1781
+ },
+ {
+   "Date": "29-11-1996",
+   "United States(USD)": 371.3,
+   "South Africa(ZAR)": 1711.1
+ },
+ {
+   "Date": "31-12-1996",
+   "United States(USD)": 369.3,
+   "South Africa(ZAR)": 1727.2
+ },
+ {
+   "Date": "31-01-1997",
+   "United States(USD)": 345.5,
+   "South Africa(ZAR)": 1577.7
+ },
+ {
+   "Date": "28-02-1997",
+   "United States(USD)": 358.6,
+   "South Africa(ZAR)": 1607.1
+ },
+ {
+   "Date": "31-03-1997",
+   "United States(USD)": 348.2,
+   "South Africa(ZAR)": 1539
+ },
+ {
+   "Date": "30-04-1997",
+   "United States(USD)": 340.2,
+   "South Africa(ZAR)": 1512.5
+ },
+ {
+   "Date": "30-05-1997",
+   "United States(USD)": 345.6,
+   "South Africa(ZAR)": 1544.5
+ },
+ {
+   "Date": "30-06-1997",
+   "United States(USD)": 334.6,
+   "South Africa(ZAR)": 1517.4
+ },
+ {
+   "Date": "31-07-1997",
+   "United States(USD)": 326.4,
+   "South Africa(ZAR)": 1504.6
+ },
+ {
+   "Date": "29-08-1997",
+   "United States(USD)": 325.4,
+   "South Africa(ZAR)": 1526.4
+ },
+ {
+   "Date": "30-09-1997",
+   "United States(USD)": 332.1,
+   "South Africa(ZAR)": 1548.4
+ },
+ {
+   "Date": "31-10-1997",
+   "United States(USD)": 311.4,
+   "South Africa(ZAR)": 1498.6
+ },
+ {
+   "Date": "28-11-1997",
+   "United States(USD)": 296.8,
+   "South Africa(ZAR)": 1441.4
+ },
+ {
+   "Date": "31-12-1997",
+   "United States(USD)": 290.2,
+   "South Africa(ZAR)": 1412.3
+ },
+ {
+   "Date": "30-01-1998",
+   "United States(USD)": 304.9,
+   "South Africa(ZAR)": 1505
+ },
+ {
+   "Date": "27-02-1998",
+   "United States(USD)": 297.4,
+   "South Africa(ZAR)": 1469.6
+ },
+ {
+   "Date": "31-03-1998",
+   "United States(USD)": 301,
+   "South Africa(ZAR)": 1516.7
+ },
+ {
+   "Date": "30-04-1998",
+   "United States(USD)": 310.7,
+   "South Africa(ZAR)": 1571.1
+ },
+ {
+   "Date": "29-05-1998",
+   "United States(USD)": 293.6,
+   "South Africa(ZAR)": 1513.8
+ },
+ {
+   "Date": "30-06-1998",
+   "United States(USD)": 296.3,
+   "South Africa(ZAR)": 1745.2
+ },
+ {
+   "Date": "31-07-1998",
+   "United States(USD)": 288.9,
+   "South Africa(ZAR)": 1773.5
+ },
+ {
+   "Date": "31-08-1998",
+   "United States(USD)": 273.4,
+   "South Africa(ZAR)": 1756.7
+ },
+ {
+   "Date": "30-09-1998",
+   "United States(USD)": 293.9,
+   "South Africa(ZAR)": 1727.8
+ },
+ {
+   "Date": "30-10-1998",
+   "United States(USD)": 292.3,
+   "South Africa(ZAR)": 1639.8
+ },
+ {
+   "Date": "30-11-1998",
+   "United States(USD)": 294.7,
+   "South Africa(ZAR)": 1676.8
+ },
+ {
+   "Date": "31-12-1998",
+   "United States(USD)": 287.8,
+   "South Africa(ZAR)": 1693.1
+ },
+ {
+   "Date": "29-01-1999",
+   "United States(USD)": 285.4,
+   "South Africa(ZAR)": 1728.2
+ },
+ {
+   "Date": "26-02-1999",
+   "United States(USD)": 287.1,
+   "South Africa(ZAR)": 1778.3
+ },
+ {
+   "Date": "31-03-1999",
+   "United States(USD)": 279.5,
+   "South Africa(ZAR)": 1728.4
+ },
+ {
+   "Date": "30-04-1999",
+   "United States(USD)": 286.6,
+   "South Africa(ZAR)": 1749.6
+ },
+ {
+   "Date": "31-05-1999",
+   "United States(USD)": 268.6,
+   "South Africa(ZAR)": 1666.7
+ },
+ {
+   "Date": "30-06-1999",
+   "United States(USD)": 261,
+   "South Africa(ZAR)": 1575
+ },
+ {
+   "Date": "30-07-1999",
+   "United States(USD)": 255.6,
+   "South Africa(ZAR)": 1575.4
+ },
+ {
+   "Date": "31-08-1999",
+   "United States(USD)": 254.8,
+   "South Africa(ZAR)": 1549.7
+ },
+ {
+   "Date": "30-09-1999",
+   "United States(USD)": 299,
+   "South Africa(ZAR)": 1794
+ },
+ {
+   "Date": "29-10-1999",
+   "United States(USD)": 299.1,
+   "South Africa(ZAR)": 1838
+ },
+ {
+   "Date": "30-11-1999",
+   "United States(USD)": 291.4,
+   "South Africa(ZAR)": 1799.1
+ },
+ {
+   "Date": "31-12-1999",
+   "United States(USD)": 290.3,
+   "South Africa(ZAR)": 1787.2
+ },
+ {
+   "Date": "31-01-2000",
+   "United States(USD)": 283.3,
+   "South Africa(ZAR)": 1787.8
+ },
+ {
+   "Date": "29-02-2000",
+   "United States(USD)": 293.7,
+   "South Africa(ZAR)": 1863.1
+ },
+ {
+   "Date": "31-03-2000",
+   "United States(USD)": 276.8,
+   "South Africa(ZAR)": 1811.3
+ },
+ {
+   "Date": "28-04-2000",
+   "United States(USD)": 275.1,
+   "South Africa(ZAR)": 1864.7
+ },
+ {
+   "Date": "31-05-2000",
+   "United States(USD)": 272.3,
+   "South Africa(ZAR)": 1896.2
+ },
+ {
+   "Date": "30-06-2000",
+   "United States(USD)": 288.2,
+   "South Africa(ZAR)": 1953.7
+ },
+ {
+   "Date": "31-07-2000",
+   "United States(USD)": 276.8,
+   "South Africa(ZAR)": 1926.7
+ },
+ {
+   "Date": "31-08-2000",
+   "United States(USD)": 277,
+   "South Africa(ZAR)": 1931.4
+ },
+ {
+   "Date": "29-09-2000",
+   "United States(USD)": 273.7,
+   "South Africa(ZAR)": 1976
+ },
+ {
+   "Date": "31-10-2000",
+   "United States(USD)": 264.5,
+   "South Africa(ZAR)": 1999.3
+ },
+ {
+   "Date": "30-11-2000",
+   "United States(USD)": 269.1,
+   "South Africa(ZAR)": 2083.5
+ },
+ {
+   "Date": "29-12-2000",
+   "United States(USD)": 274.5,
+   "South Africa(ZAR)": 2077.6
+ },
+ {
+   "Date": "31-01-2001",
+   "United States(USD)": 264.5,
+   "South Africa(ZAR)": 2055.7
+ },
+ {
+   "Date": "28-02-2001",
+   "United States(USD)": 266.7,
+   "South Africa(ZAR)": 2060.5
+ },
+ {
+   "Date": "30-03-2001",
+   "United States(USD)": 257.7,
+   "South Africa(ZAR)": 2064.2
+ },
+ {
+   "Date": "30-04-2001",
+   "United States(USD)": 263.2,
+   "South Africa(ZAR)": 2109.2
+ },
+ {
+   "Date": "31-05-2001",
+   "United States(USD)": 267.5,
+   "South Africa(ZAR)": 2146.7
+ },
+ {
+   "Date": "29-06-2001",
+   "United States(USD)": 270.6,
+   "South Africa(ZAR)": 2181.4
+ },
+ {
+   "Date": "31-07-2001",
+   "United States(USD)": 265.9,
+   "South Africa(ZAR)": 2198.4
+ },
+ {
+   "Date": "31-08-2001",
+   "United States(USD)": 273,
+   "South Africa(ZAR)": 2301.1
+ },
+ {
+   "Date": "28-09-2001",
+   "United States(USD)": 293.1,
+   "South Africa(ZAR)": 2640.2
+ },
+ {
+   "Date": "31-10-2001",
+   "United States(USD)": 278.8,
+   "South Africa(ZAR)": 2627.9
+ },
+ {
+   "Date": "30-11-2001",
+   "United States(USD)": 275.5,
+   "South Africa(ZAR)": 2832.1
+ },
+ {
+   "Date": "31-12-2001",
+   "United States(USD)": 276.5,
+   "South Africa(ZAR)": 3316.6
+ },
+ {
+   "Date": "31-01-2002",
+   "United States(USD)": 282.3,
+   "South Africa(ZAR)": 3223.6
+ },
+ {
+   "Date": "28-02-2002",
+   "United States(USD)": 296.9,
+   "South Africa(ZAR)": 3392.6
+ },
+ {
+   "Date": "29-03-2002",
+   "United States(USD)": 301.4,
+   "South Africa(ZAR)": 3425.4
+ },
+ {
+   "Date": "30-04-2002",
+   "United States(USD)": 308.2,
+   "South Africa(ZAR)": 3277.3
+ },
+ {
+   "Date": "31-05-2002",
+   "United States(USD)": 326.6,
+   "South Africa(ZAR)": 3190.3
+ },
+ {
+   "Date": "28-06-2002",
+   "United States(USD)": 318.5,
+   "South Africa(ZAR)": 3283.7
+ },
+ {
+   "Date": "31-07-2002",
+   "United States(USD)": 304.7,
+   "South Africa(ZAR)": 3118.4
+ },
+ {
+   "Date": "30-08-2002",
+   "United States(USD)": 312.8,
+   "South Africa(ZAR)": 3288
+ },
+ {
+   "Date": "30-09-2002",
+   "United States(USD)": 323.7,
+   "South Africa(ZAR)": 3411.8
+ },
+ {
+   "Date": "31-10-2002",
+   "United States(USD)": 316.9,
+   "South Africa(ZAR)": 3174.4
+ },
+ {
+   "Date": "29-11-2002",
+   "United States(USD)": 319.1,
+   "South Africa(ZAR)": 2956.6
+ },
+ {
+   "Date": "31-12-2002",
+   "United States(USD)": 347.2,
+   "South Africa(ZAR)": 2979.2
+ },
+ {
+   "Date": "31-01-2003",
+   "United States(USD)": 367.5,
+   "South Africa(ZAR)": 3136.1
+ },
+ {
+   "Date": "28-02-2003",
+   "United States(USD)": 347.5,
+   "South Africa(ZAR)": 2802.2
+ },
+ {
+   "Date": "31-03-2003",
+   "United States(USD)": 334.9,
+   "South Africa(ZAR)": 2635.6
+ },
+ {
+   "Date": "30-04-2003",
+   "United States(USD)": 336.8,
+   "South Africa(ZAR)": 2450.3
+ },
+ {
+   "Date": "30-05-2003",
+   "United States(USD)": 361.4,
+   "South Africa(ZAR)": 2908.4
+ },
+ {
+   "Date": "30-06-2003",
+   "United States(USD)": 346,
+   "South Africa(ZAR)": 2598.5
+ },
+ {
+   "Date": "31-07-2003",
+   "United States(USD)": 354.8,
+   "South Africa(ZAR)": 2629.8
+ },
+ {
+   "Date": "29-08-2003",
+   "United States(USD)": 375.6,
+   "South Africa(ZAR)": 2753.2
+ },
+ {
+   "Date": "30-09-2003",
+   "United States(USD)": 388,
+   "South Africa(ZAR)": 2702.4
+ },
+ {
+   "Date": "31-10-2003",
+   "United States(USD)": 386.3,
+   "South Africa(ZAR)": 2663.2
+ },
+ {
+   "Date": "28-11-2003",
+   "United States(USD)": 398.4,
+   "South Africa(ZAR)": 2545
+ },
+ {
+   "Date": "31-12-2003",
+   "United States(USD)": 416.3,
+   "South Africa(ZAR)": 2778.5
+ },
+ {
+   "Date": "30-01-2004",
+   "United States(USD)": 399.8,
+   "South Africa(ZAR)": 2826.7
+ },
+ {
+   "Date": "27-02-2004",
+   "United States(USD)": 395.9,
+   "South Africa(ZAR)": 2633
+ },
+ {
+   "Date": "31-03-2004",
+   "United States(USD)": 423.7,
+   "South Africa(ZAR)": 2670.4
+ },
+ {
+   "Date": "30-04-2004",
+   "United States(USD)": 388.5,
+   "South Africa(ZAR)": 2702.5
+ },
+ {
+   "Date": "31-05-2004",
+   "United States(USD)": 393.3,
+   "South Africa(ZAR)": 2562
+ },
+ {
+   "Date": "30-06-2004",
+   "United States(USD)": 395.8,
+   "South Africa(ZAR)": 2458.8
+ },
+ {
+   "Date": "30-07-2004",
+   "United States(USD)": 391.4,
+   "South Africa(ZAR)": 2453.1
+ },
+ {
+   "Date": "31-08-2004",
+   "United States(USD)": 407.3,
+   "South Africa(ZAR)": 2710.8
+ },
+ {
+   "Date": "30-09-2004",
+   "United States(USD)": 415.7,
+   "South Africa(ZAR)": 2691.3
+ },
+ {
+   "Date": "29-10-2004",
+   "United States(USD)": 425.6,
+   "South Africa(ZAR)": 2620.3
+ },
+ {
+   "Date": "30-11-2004",
+   "United States(USD)": 453.4,
+   "South Africa(ZAR)": 2628.5
+ },
+ {
+   "Date": "31-12-2004",
+   "United States(USD)": 435.6,
+   "South Africa(ZAR)": 2454.1
+ },
+ {
+   "Date": "31-01-2005",
+   "United States(USD)": 422.2,
+   "South Africa(ZAR)": 2515.2
+ },
+ {
+   "Date": "28-02-2005",
+   "United States(USD)": 435.5,
+   "South Africa(ZAR)": 2523.5
+ },
+ {
+   "Date": "31-03-2005",
+   "United States(USD)": 427.5,
+   "South Africa(ZAR)": 2660.7
+ },
+ {
+   "Date": "29-04-2005",
+   "United States(USD)": 435.7,
+   "South Africa(ZAR)": 2649.9
+ },
+ {
+   "Date": "31-05-2005",
+   "United States(USD)": 414.5,
+   "South Africa(ZAR)": 2796.9
+ },
+ {
+   "Date": "30-06-2005",
+   "United States(USD)": 437.1,
+   "South Africa(ZAR)": 2917.1
+ },
+ {
+   "Date": "29-07-2005",
+   "United States(USD)": 429,
+   "South Africa(ZAR)": 2818
+ },
+ {
+   "Date": "31-08-2005",
+   "United States(USD)": 433.3,
+   "South Africa(ZAR)": 2792.9
+ },
+ {
+   "Date": "30-09-2005",
+   "United States(USD)": 473.3,
+   "South Africa(ZAR)": 3008.8
+ },
+ {
+   "Date": "31-10-2005",
+   "United States(USD)": 470.8,
+   "South Africa(ZAR)": 3154.4
+ },
+ {
+   "Date": "30-11-2005",
+   "United States(USD)": 495.7,
+   "South Africa(ZAR)": 3200.3
+ },
+ {
+   "Date": "30-12-2005",
+   "United States(USD)": 513,
+   "South Africa(ZAR)": 3253.7
+ },
+ {
+   "Date": "31-01-2006",
+   "United States(USD)": 568.8,
+   "South Africa(ZAR)": 3461.7
+ },
+ {
+   "Date": "28-02-2006",
+   "United States(USD)": 556,
+   "South Africa(ZAR)": 3430.1
+ },
+ {
+   "Date": "31-03-2006",
+   "United States(USD)": 582,
+   "South Africa(ZAR)": 3587.7
+ },
+ {
+   "Date": "28-04-2006",
+   "United States(USD)": 644,
+   "South Africa(ZAR)": 3899.7
+ },
+ {
+   "Date": "31-05-2006",
+   "United States(USD)": 653,
+   "South Africa(ZAR)": 4373.5
+ },
+ {
+   "Date": "30-06-2006",
+   "United States(USD)": 613.5,
+   "South Africa(ZAR)": 4375.3
+ },
+ {
+   "Date": "31-07-2006",
+   "United States(USD)": 632.5,
+   "South Africa(ZAR)": 4385.3
+ },
+ {
+   "Date": "31-08-2006",
+   "United States(USD)": 623.5,
+   "South Africa(ZAR)": 4495.4
+ },
+ {
+   "Date": "29-09-2006",
+   "United States(USD)": 599.3,
+   "South Africa(ZAR)": 4655.1
+ },
+ {
+   "Date": "31-10-2006",
+   "United States(USD)": 603.8,
+   "South Africa(ZAR)": 4457
+ },
+ {
+   "Date": "30-11-2006",
+   "United States(USD)": 646.7,
+   "South Africa(ZAR)": 4640.9
+ },
+ {
+   "Date": "29-12-2006",
+   "United States(USD)": 632,
+   "South Africa(ZAR)": 4456.1
+ },
+ {
+   "Date": "31-01-2007",
+   "United States(USD)": 650.5,
+   "South Africa(ZAR)": 4718.6
+ },
+ {
+   "Date": "28-02-2007",
+   "United States(USD)": 664.2,
+   "South Africa(ZAR)": 4830.9
+ },
+ {
+   "Date": "30-03-2007",
+   "United States(USD)": 661.8,
+   "South Africa(ZAR)": 4799.3
+ },
+ {
+   "Date": "30-04-2007",
+   "United States(USD)": 677,
+   "South Africa(ZAR)": 4764
+ },
+ {
+   "Date": "31-05-2007",
+   "United States(USD)": 659.1,
+   "South Africa(ZAR)": 4690.2
+ },
+ {
+   "Date": "29-06-2007",
+   "United States(USD)": 650.5,
+   "South Africa(ZAR)": 4587.3
+ },
+ {
+   "Date": "31-07-2007",
+   "United States(USD)": 665.5,
+   "South Africa(ZAR)": 4727.1
+ },
+ {
+   "Date": "31-08-2007",
+   "United States(USD)": 672,
+   "South Africa(ZAR)": 4819.9
+ },
+ {
+   "Date": "28-09-2007",
+   "United States(USD)": 743,
+   "South Africa(ZAR)": 5124.3
+ },
+ {
+   "Date": "31-10-2007",
+   "United States(USD)": 789.5,
+   "South Africa(ZAR)": 5162.9
+ },
+ {
+   "Date": "30-11-2007",
+   "United States(USD)": 783.5,
+   "South Africa(ZAR)": 5326
+ },
+ {
+   "Date": "31-12-2007",
+   "United States(USD)": 833.8,
+   "South Africa(ZAR)": 5698.1
+ },
+ {
+   "Date": "31-01-2008",
+   "United States(USD)": 923.3,
+   "South Africa(ZAR)": 6923.2
+ },
+ {
+   "Date": "29-02-2008",
+   "United States(USD)": 971.5,
+   "South Africa(ZAR)": 7544.8
+ },
+ {
+   "Date": "31-03-2008",
+   "United States(USD)": 933.5,
+   "South Africa(ZAR)": 7586.1
+ },
+ {
+   "Date": "30-04-2008",
+   "United States(USD)": 871,
+   "South Africa(ZAR)": 6574.3
+ },
+ {
+   "Date": "30-05-2008",
+   "United States(USD)": 885.8,
+   "South Africa(ZAR)": 6765.1
+ },
+ {
+   "Date": "30-06-2008",
+   "United States(USD)": 930.3,
+   "South Africa(ZAR)": 7282.1
+ },
+ {
+   "Date": "31-07-2008",
+   "United States(USD)": 918,
+   "South Africa(ZAR)": 6704.8
+ },
+ {
+   "Date": "29-08-2008",
+   "United States(USD)": 833,
+   "South Africa(ZAR)": 6401.8
+ },
+ {
+   "Date": "30-09-2008",
+   "United States(USD)": 884.5,
+   "South Africa(ZAR)": 7324.2
+ },
+ {
+   "Date": "31-10-2008",
+   "United States(USD)": 730.8,
+   "South Africa(ZAR)": 7197.9
+ },
+ {
+   "Date": "28-11-2008",
+   "United States(USD)": 814.5,
+   "South Africa(ZAR)": 8198
+ },
+ {
+   "Date": "31-12-2008",
+   "United States(USD)": 869.8,
+   "South Africa(ZAR)": 8040.8
+ },
+ {
+   "Date": "30-01-2009",
+   "United States(USD)": 919.5,
+   "South Africa(ZAR)": 9381.2
+ },
+ {
+   "Date": "27-02-2009",
+   "United States(USD)": 952,
+   "South Africa(ZAR)": 9562.4
+ },
+ {
+   "Date": "31-03-2009",
+   "United States(USD)": 916.5,
+   "South Africa(ZAR)": 8715.9
+ },
+ {
+   "Date": "30-04-2009",
+   "United States(USD)": 883.3,
+   "South Africa(ZAR)": 7486.7
+ },
+ {
+   "Date": "29-05-2009",
+   "United States(USD)": 975.5,
+   "South Africa(ZAR)": 7840.6
+ },
+ {
+   "Date": "30-06-2009",
+   "United States(USD)": 934.5,
+   "South Africa(ZAR)": 7216.7
+ },
+ {
+   "Date": "31-07-2009",
+   "United States(USD)": 939,
+   "South Africa(ZAR)": 7360.7
+ },
+ {
+   "Date": "31-08-2009",
+   "United States(USD)": 955.5,
+   "South Africa(ZAR)": 7442.3
+ },
+ {
+   "Date": "30-09-2009",
+   "United States(USD)": 995.8,
+   "South Africa(ZAR)": 7545.3
+ },
+ {
+   "Date": "30-10-2009",
+   "United States(USD)": 1040,
+   "South Africa(ZAR)": 8140.1
+ },
+ {
+   "Date": "30-11-2009",
+   "United States(USD)": 1175.8,
+   "South Africa(ZAR)": 8738.5
+ },
+ {
+   "Date": "31-12-2009",
+   "United States(USD)": 1087.5,
+   "South Africa(ZAR)": 8008.1
+ },
+ {
+   "Date": "29-01-2010",
+   "United States(USD)": 1078.5,
+   "South Africa(ZAR)": 8137.3
+ },
+ {
+   "Date": "26-02-2010",
+   "United States(USD)": 1108.3,
+   "South Africa(ZAR)": 8494.2
+ },
+ {
+   "Date": "31-03-2010",
+   "United States(USD)": 1115.5,
+   "South Africa(ZAR)": 8192.2
+ },
+ {
+   "Date": "30-04-2010",
+   "United States(USD)": 1179.3,
+   "South Africa(ZAR)": 8677.1
+ },
+ {
+   "Date": "31-05-2010",
+   "United States(USD)": 1207.5,
+   "South Africa(ZAR)": 9285.6
+ },
+ {
+   "Date": "30-06-2010",
+   "United States(USD)": 1244,
+   "South Africa(ZAR)": 9536.3
+ },
+ {
+   "Date": "30-07-2010",
+   "United States(USD)": 1169,
+   "South Africa(ZAR)": 8538.1
+ },
+ {
+   "Date": "31-08-2010",
+   "United States(USD)": 1246,
+   "South Africa(ZAR)": 9190.2
+ },
+ {
+   "Date": "30-09-2010",
+   "United States(USD)": 1307,
+   "South Africa(ZAR)": 9115.4
+ },
+ {
+   "Date": "29-10-2010",
+   "United States(USD)": 1346.8,
+   "South Africa(ZAR)": 9369.4
+ },
+ {
+   "Date": "30-11-2010",
+   "United States(USD)": 1383.5,
+   "South Africa(ZAR)": 9812.1
+ },
+ {
+   "Date": "31-12-2010",
+   "United States(USD)": 1405.5,
+   "South Africa(ZAR)": 9298.4
+ },
+ {
+   "Date": "31-01-2011",
+   "United States(USD)": 1327,
+   "South Africa(ZAR)": 9527.9
+ },
+ {
+   "Date": "28-02-2011",
+   "United States(USD)": 1411,
+   "South Africa(ZAR)": 9791
+ },
+ {
+   "Date": "31-03-2011",
+   "United States(USD)": 1439,
+   "South Africa(ZAR)": 9726.9
+ },
+ {
+   "Date": "29-04-2011",
+   "United States(USD)": 1535.5,
+   "South Africa(ZAR)": 10114.6
+ },
+ {
+   "Date": "31-05-2011",
+   "United States(USD)": 1536.5,
+   "South Africa(ZAR)": 10490.5
+ },
+ {
+   "Date": "30-06-2011",
+   "United States(USD)": 1505.5,
+   "South Africa(ZAR)": 10205.8
+ },
+ {
+   "Date": "29-07-2011",
+   "United States(USD)": 1628.5,
+   "South Africa(ZAR)": 10927.9
+ },
+ {
+   "Date": "31-08-2011",
+   "United States(USD)": 1813.5,
+   "South Africa(ZAR)": 12692.2
+ },
+ {
+   "Date": "30-09-2011",
+   "United States(USD)": 1620,
+   "South Africa(ZAR)": 13023.3
+ },
+ {
+   "Date": "31-10-2011",
+   "United States(USD)": 1722,
+   "South Africa(ZAR)": 13597.8
+ },
+ {
+   "Date": "30-11-2011",
+   "United States(USD)": 1746,
+   "South Africa(ZAR)": 14140.4
+ },
+ {
+   "Date": "30-12-2011",
+   "United States(USD)": 1531,
+   "South Africa(ZAR)": 12360.4
+ },
+ {
+   "Date": "31-01-2012",
+   "United States(USD)": 1744,
+   "South Africa(ZAR)": 13601.7
+ },
+ {
+   "Date": "29-02-2012",
+   "United States(USD)": 1770,
+   "South Africa(ZAR)": 13186.9
+ },
+ {
+   "Date": "30-03-2012",
+   "United States(USD)": 1662.5,
+   "South Africa(ZAR)": 12758.9
+ },
+ {
+   "Date": "30-04-2012",
+   "United States(USD)": 1651.3,
+   "South Africa(ZAR)": 12797.4
+ },
+ {
+   "Date": "31-05-2012",
+   "United States(USD)": 1558,
+   "South Africa(ZAR)": 13338.5
+ },
+ {
+   "Date": "29-06-2012",
+   "United States(USD)": 1598.5,
+   "South Africa(ZAR)": 13073.3
+ },
+ {
+   "Date": "31-07-2012",
+   "United States(USD)": 1622,
+   "South Africa(ZAR)": 13324.9
+ },
+ {
+   "Date": "31-08-2012",
+   "United States(USD)": 1648.5,
+   "South Africa(ZAR)": 13894.4
+ },
+ {
+   "Date": "28-09-2012",
+   "United States(USD)": 1776,
+   "South Africa(ZAR)": 14654
+ },
+ {
+   "Date": "31-10-2012",
+   "United States(USD)": 1719,
+   "South Africa(ZAR)": 14953.9
+ },
+ {
+   "Date": "30-11-2012",
+   "United States(USD)": 1726,
+   "South Africa(ZAR)": 15330.2
+ },
+ {
+   "Date": "31-12-2012",
+   "United States(USD)": 1657.5,
+   "South Africa(ZAR)": 14062.9
+ },
+ {
+   "Date": "31-01-2013",
+   "United States(USD)": 1664.8,
+   "South Africa(ZAR)": 14871.5
+ },
+ {
+   "Date": "28-02-2013",
+   "United States(USD)": 1588.5,
+   "South Africa(ZAR)": 14253.1
+ },
+ {
+   "Date": "29-03-2013",
+   "United States(USD)": 1598.3,
+   "South Africa(ZAR)": 14663.1
+ },
+ {
+   "Date": "30-04-2013",
+   "United States(USD)": 1469,
+   "South Africa(ZAR)": 13195.2
+ },
+ {
+   "Date": "31-05-2013",
+   "United States(USD)": 1394.5,
+   "South Africa(ZAR)": 14028.3
+ },
+ {
+   "Date": "28-06-2013",
+   "United States(USD)": 1192,
+   "South Africa(ZAR)": 11833.2
+ },
+ {
+   "Date": "31-07-2013",
+   "United States(USD)": 1314.5,
+   "South Africa(ZAR)": 13025.7
+ },
+ {
+   "Date": "30-08-2013",
+   "United States(USD)": 1394.8,
+   "South Africa(ZAR)": 14283.6
+ },
+ {
+   "Date": "30-09-2013",
+   "United States(USD)": 1326.5,
+   "South Africa(ZAR)": 13349.6
+ },
+ {
+   "Date": "31-10-2013",
+   "United States(USD)": 1324,
+   "South Africa(ZAR)": 13247.3
+ },
+ {
+   "Date": "29-11-2013",
+   "United States(USD)": 1253,
+   "South Africa(ZAR)": 12738.7
+ },
+ {
+   "Date": "31-12-2013",
+   "United States(USD)": 1204.5,
+   "South Africa(ZAR)": 12615.6
+ },
+ {
+   "Date": "31-01-2014",
+   "United States(USD)": 1251,
+   "South Africa(ZAR)": 13972.1
+ },
+ {
+   "Date": "28-02-2014",
+   "United States(USD)": 1326.5,
+   "South Africa(ZAR)": 14248.9
+ },
+ {
+   "Date": "31-03-2014",
+   "United States(USD)": 1291.8,
+   "South Africa(ZAR)": 13586.5
+ },
+ {
+   "Date": "30-04-2014",
+   "United States(USD)": 1288.5,
+   "South Africa(ZAR)": 13569.4
+ },
+ {
+   "Date": "30-05-2014",
+   "United States(USD)": 1250.5,
+   "South Africa(ZAR)": 13235
+ },
+ {
+   "Date": "30-06-2014",
+   "United States(USD)": 1315,
+   "South Africa(ZAR)": 13990
+ },
+ {
+   "Date": "31-07-2014",
+   "United States(USD)": 1285.3,
+   "South Africa(ZAR)": 13773.4
+ },
+ {
+   "Date": "29-08-2014",
+   "United States(USD)": 1285.8,
+   "South Africa(ZAR)": 13674.5
+ },
+ {
+   "Date": "30-09-2014",
+   "United States(USD)": 1216.5,
+   "South Africa(ZAR)": 13744.3
+ },
+ {
+   "Date": "31-10-2014",
+   "United States(USD)": 1164.3,
+   "South Africa(ZAR)": 12861.5
+ },
+ {
+   "Date": "28-11-2014",
+   "United States(USD)": 1182.8,
+   "South Africa(ZAR)": 13065.3
+ },
+ {
+   "Date": "31-12-2014",
+   "United States(USD)": 1206,
+   "South Africa(ZAR)": 13951.9
+ },
+ {
+   "Date": "30-01-2015",
+   "United States(USD)": 1260.3,
+   "South Africa(ZAR)": 14658
+ },
+ {
+   "Date": "27-02-2015",
+   "United States(USD)": 1214,
+   "South Africa(ZAR)": 14146.7
+ },
+ {
+   "Date": "31-03-2015",
+   "United States(USD)": 1187,
+   "South Africa(ZAR)": 14382
+ },
+ {
+   "Date": "30-04-2015",
+   "United States(USD)": 1180.3,
+   "South Africa(ZAR)": 14111.2
+ },
+ {
+   "Date": "29-05-2015",
+   "United States(USD)": 1191.4,
+   "South Africa(ZAR)": 14496.7
+ },
+ {
+   "Date": "30-06-2015",
+   "United States(USD)": 1171,
+   "South Africa(ZAR)": 14213.3
+ },
+ {
+   "Date": "31-07-2015",
+   "United States(USD)": 1098.4,
+   "South Africa(ZAR)": 13858.5
+ },
+ {
+   "Date": "31-08-2015",
+   "United States(USD)": 1135,
+   "South Africa(ZAR)": 15054.9
+ },
+ {
+   "Date": "30-09-2015",
+   "United States(USD)": 1114,
+   "South Africa(ZAR)": 15403.3
+ },
+ {
+   "Date": "30-10-2015",
+   "United States(USD)": 1142.4,
+   "South Africa(ZAR)": 15772
+ },
+ {
+   "Date": "30-11-2015",
+   "United States(USD)": 1061.9,
+   "South Africa(ZAR)": 15312.6
+ },
+ {
+   "Date": "31-12-2015",
+   "United States(USD)": 1060,
+   "South Africa(ZAR)": 16425.2
+ },
+ {
+   "Date": "29-01-2016",
+   "United States(USD)": 1111.8,
+   "South Africa(ZAR)": 17677.6
+ },
+ {
+   "Date": "29-02-2016",
+   "United States(USD)": 1234.9,
+   "South Africa(ZAR)": 19492.8
+ },
+ {
+   "Date": "31-03-2016",
+   "United States(USD)": 1237,
+   "South Africa(ZAR)": 18193.8
+ },
+ {
+   "Date": "29-04-2016",
+   "United States(USD)": 1285.7,
+   "South Africa(ZAR)": 18231.5
+ },
+ {
+   "Date": "31-05-2016",
+   "United States(USD)": 1212.1,
+   "South Africa(ZAR)": 19063.9
+ },
+ {
+   "Date": "30-06-2016",
+   "United States(USD)": 1320.8,
+   "South Africa(ZAR)": 19342.4
+ },
+ {
+   "Date": "29-07-2016",
+   "United States(USD)": 1342,
+   "South Africa(ZAR)": 18604.2
+ },
+ {
+   "Date": "31-08-2016",
+   "United States(USD)": 1309.3,
+   "South Africa(ZAR)": 19264.5
+ },
+ {
+   "Date": "30-09-2016",
+   "United States(USD)": 1322.5,
+   "South Africa(ZAR)": 18186
+ },
+ {
+   "Date": "31-10-2016",
+   "United States(USD)": 1272,
+   "South Africa(ZAR)": 17149.7
+ },
+ {
+   "Date": "30-11-2016",
+   "United States(USD)": 1178.1,
+   "South Africa(ZAR)": 16524.3
+ },
+ {
+   "Date": "30-12-2016",
+   "United States(USD)": 1145.9,
+   "South Africa(ZAR)": 15670.2
+ },
+ {
+   "Date": "31-01-2017",
+   "United States(USD)": 1212.8,
+   "South Africa(ZAR)": 16348.5
+ },
+ {
+   "Date": "28-02-2017",
+   "United States(USD)": 1255.6,
+   "South Africa(ZAR)": 16423.3
+ },
+ {
+   "Date": "31-03-2017",
+   "United States(USD)": 1244.9,
+   "South Africa(ZAR)": 16691.9
+ },
+ {
+   "Date": "28-04-2017",
+   "United States(USD)": 1266.5,
+   "South Africa(ZAR)": 16949.9
+ },
+ {
+   "Date": "31-05-2017",
+   "United States(USD)": 1266.2,
+   "South Africa(ZAR)": 16696.4
+ },
+ {
+   "Date": "30-06-2017",
+   "United States(USD)": 1242.3,
+   "South Africa(ZAR)": 16276.6
+ },
+ {
+   "Date": "31-07-2017",
+   "United States(USD)": 1267.6,
+   "South Africa(ZAR)": 16723.7
+ },
+ {
+   "Date": "31-08-2017",
+   "United States(USD)": 1311.8,
+   "South Africa(ZAR)": 17049.5
+ },
+ {
+   "Date": "29-09-2017",
+   "United States(USD)": 1283.1,
+   "South Africa(ZAR)": 17325.1
+ },
+ {
+   "Date": "31-10-2017",
+   "United States(USD)": 1270.2,
+   "South Africa(ZAR)": 17961.5
+ },
+ {
+   "Date": "30-11-2017",
+   "United States(USD)": 1280.2,
+   "South Africa(ZAR)": 17465.1
+ },
+ {
+   "Date": "29-12-2017",
+   "United States(USD)": 1291,
+   "South Africa(ZAR)": 15982.6
+ },
+ {
+   "Date": "31-01-2018",
+   "United States(USD)": 1345.1,
+   "South Africa(ZAR)": 15970.8
+ },
+ {
+   "Date": "28-02-2018",
+   "United States(USD)": 1317.9,
+   "South Africa(ZAR)": 15555.6
+ },
+ {
+   "Date": "30-03-2018",
+   "United States(USD)": 1323.9,
+   "South Africa(ZAR)": 15686
+ },
+ {
+   "Date": "30-04-2018",
+   "United States(USD)": 1313.2,
+   "South Africa(ZAR)": 16393.7
+ },
+ {
+   "Date": "31-05-2018",
+   "United States(USD)": 1305.4,
+   "South Africa(ZAR)": 16532.3
+ },
+ {
+   "Date": "29-06-2018",
+   "United States(USD)": 1250.5,
+   "South Africa(ZAR)": 17139
+ },
+ {
+   "Date": "31-07-2018",
+   "United States(USD)": 1221,
+   "South Africa(ZAR)": 15992.9
+ },
+ {
+   "Date": "31-08-2018",
+   "United States(USD)": 1202.5,
+   "South Africa(ZAR)": 17617.4
+ },
+ {
+   "Date": "28-09-2018",
+   "United States(USD)": 1187.3,
+   "South Africa(ZAR)": 16801.1
+ },
+ {
+   "Date": "31-10-2018",
+   "United States(USD)": 1215,
+   "South Africa(ZAR)": 17940.3
+ },
+ {
+   "Date": "30-11-2018",
+   "United States(USD)": 1217.6,
+   "South Africa(ZAR)": 16882.9
+ },
+ {
+   "Date": "31-12-2018",
+   "United States(USD)": 1279,
+   "South Africa(ZAR)": 18398.4
+ },
+ {
+   "Date": "31-01-2019",
+   "United States(USD)": 1323.3,
+   "South Africa(ZAR)": 17559.5
+ },
+ {
+   "Date": "28-02-2019",
+   "United States(USD)": 1319.2,
+   "South Africa(ZAR)": 18547.3
+ },
+ {
+   "Date": "29-03-2019",
+   "United States(USD)": 1295.4,
+   "South Africa(ZAR)": 18681.3
+ },
+ {
+   "Date": "30-04-2019",
+   "United States(USD)": 1282.3,
+   "South Africa(ZAR)": 18383.4
+ },
+ {
+   "Date": "31-05-2019",
+   "United States(USD)": 1295.6,
+   "South Africa(ZAR)": 18860
+ },
+ {
+   "Date": "28-06-2019",
+   "United States(USD)": 1409,
+   "South Africa(ZAR)": 19868.7
+ },
+ {
+   "Date": "31-07-2019",
+   "United States(USD)": 1427.6,
+   "South Africa(ZAR)": 20233.7
+ },
+ {
+   "Date": "30-08-2019",
+   "United States(USD)": 1528.4,
+   "South Africa(ZAR)": 23206.8
+ },
+ {
+   "Date": "30-09-2019",
+   "United States(USD)": 1485.3,
+   "South Africa(ZAR)": 22520.9
+ },
+ {
+   "Date": "31-10-2019",
+   "United States(USD)": 1511,
+   "South Africa(ZAR)": 22760.2
+ },
+ {
+   "Date": "29-11-2019",
+   "United States(USD)": 1460.2,
+   "South Africa(ZAR)": 21395.6
+ },
+ {
+   "Date": "31-12-2019",
+   "United States(USD)": 1514.8,
+   "South Africa(ZAR)": 21181.5
+ },
+ {
+   "Date": "31-01-2020",
+   "United States(USD)": 1584.2,
+   "South Africa(ZAR)": 23762.2
+ },
+ {
+   "Date": "28-02-2020",
+   "United States(USD)": 1609.9,
+   "South Africa(ZAR)": 25325.4
+ },
+ {
+   "Date": "31-03-2020",
+   "United States(USD)": 1609,
+   "South Africa(ZAR)": 28735.9
+ },
+ {
+   "Date": "30-04-2020",
+   "United States(USD)": 1702.8,
+   "South Africa(ZAR)": 31271
+ },
+ {
+   "Date": "29-05-2020",
+   "United States(USD)": 1728.7,
+   "South Africa(ZAR)": 30476.1
+ },
+ {
+   "Date": "30-06-2020",
+   "United States(USD)": 1768.1,
+   "South Africa(ZAR)": 30720.7
+ },
+ {
+   "Date": "31-07-2020",
+   "United States(USD)": 1964.9,
+   "South Africa(ZAR)": 33459.8
+ },
+ {
+   "Date": "31-08-2020",
+   "United States(USD)": 1957.4,
+   "South Africa(ZAR)": 33160
+ },
+ {
+   "Date": "30-09-2020",
+   "United States(USD)": 1886.9,
+   "South Africa(ZAR)": 31473.5
+ },
+ {
+   "Date": "30-10-2020",
+   "United States(USD)": 1881.9,
+   "South Africa(ZAR)": 30577.7
+ },
+ {
+   "Date": "30-11-2020",
+   "United States(USD)": 1762.6,
+   "South Africa(ZAR)": 27277.7
+ },
+ {
+   "Date": "31-12-2020",
+   "United States(USD)": 1887.6,
+   "South Africa(ZAR)": 27726.5
+ },
+ {
+   "Date": "29-01-2021",
+   "United States(USD)": 1863.8,
+   "South Africa(ZAR)": 28054.9
+ },
+ {
+   "Date": "26-02-2021",
+   "United States(USD)": 1742.9,
+   "South Africa(ZAR)": 26397.6
+ },
+ {
+   "Date": "31-03-2021",
+   "United States(USD)": 1691.1,
+   "South Africa(ZAR)": 24970.5
+ },
+ {
+   "Date": "30-04-2021",
+   "United States(USD)": 1767.7,
+   "South Africa(ZAR)": 25644.2
+ },
+ {
+   "Date": "31-05-2021",
+   "United States(USD)": 1900,
+   "South Africa(ZAR)": 26067.3
+ },
+ {
+   "Date": "30-06-2021",
+   "United States(USD)": 1763.2,
+   "South Africa(ZAR)": 25175.6
+ },
+ {
+   "Date": "30-07-2021",
+   "United States(USD)": 1825.8,
+   "South Africa(ZAR)": 26708.4
+ }
+]
