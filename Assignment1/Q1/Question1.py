@@ -1,6 +1,6 @@
 import sys
 
-def do_stuff():
+def checkPrime():
   number = int(sys.argv[1])
   if number < 2:
     print('No')
@@ -11,4 +11,4 @@ def do_stuff():
         return
     print('Yes')
 
-do_stuff()
+checkPrime()
