@@ -1,7 +1,11 @@
 import sys
 
 def checkPrime():
-  number = int(sys.argv[1])
+  try:
+    number = int(float(sys.argv[1]))
+  except:
+    print("INVALID INPUT!")
+    return
   if number < 2:
     print('No')
   else:

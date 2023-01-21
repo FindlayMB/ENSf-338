@@ -7,7 +7,6 @@ with open("golddata.json","r") as inFile:
 usdData = []
 zarData = []
 dates = []
-print(content[0]['Date'])
 for entry in content:
     if entry['Date'][6:] == '2010':
         usdData.append(entry['United States(USD)'])
