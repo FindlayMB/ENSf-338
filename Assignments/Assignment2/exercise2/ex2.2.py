@@ -10,7 +10,7 @@ def func1(arr, low, high):
         func1(arr, low, pi-1)
         func1(arr, pi + 1, high)
 def func2(array, start, end):
-    p = p = array[(start+end)//2]
+    p = array[start]
     low = start + 1
     high = end
     while True:
@@ -36,9 +36,7 @@ for i, arr in enumerate(inputs):
     func1(arr, 0, len(arr) - 1)
     end_time = time.perf_counter()
     timing_results.append(end_time - start_time)
-    
-with open("ex2.5.json", "w") as f:
-    f.write(str(inputs))
+ 
 
 plt.plot(timing_results)
 plt.xlabel("Input")
