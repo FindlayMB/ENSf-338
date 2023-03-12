@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 from timeit import timeit
-import random
+from random import randint, seed
 
 
 def linearSearch(data, x):
@@ -27,6 +27,16 @@ def binarySearch(data, value):
 
 
 if __name__ == "__main__":
-    data = list(range(1500))
+    data = list(range(1, 1501))
     linearTime = []
     binaryTime = []
+    seed(1)
+    for i in range(100):
+        linearTime.append(
+            timeit(lambda: linearSearch(data, randint(1, 1500)), number=1))
+        binaryTime.append(
+            timeit(lambda: binarySearch(data, randint(1, 1500)), number=1))
+
+    plt.hist(linearTime, label="Linear Search Time")
+    plt.hist(binaryTime, label="Binary Search Time")
+    plt.show()
