@@ -18,7 +18,7 @@ def binarySearch(data, value):
     start = 0
     end = len(data) - 1
     while start <= end:
-        mid = start + (end - start) // 2
+        mid = (end + start) // 2
         if data[mid] == value:
             return mid
         elif data[mid] < value:
@@ -32,10 +32,10 @@ if __name__ == "__main__":
     data = list(range(1, 1501))
     linearTime = []
     binaryTime = []
-
+    random.seed(a=1)
     # Run the search functions 100 times each and append the execution times to their respective lists
     for i in range(100):
-        x = random.randint(0, len(data)-1)
+        x = random.randint(1, len(data))
         linearTime.append(timeit(lambda: linearSearch(data, x), number=1))
         binaryTime.append(timeit(lambda: binarySearch(data, x), number=1))
 
