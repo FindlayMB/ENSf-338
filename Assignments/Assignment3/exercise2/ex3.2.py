@@ -1,71 +1,11 @@
 import json
 import time
 import matplotlib.pyplot as plt
-
+from timeit import timeit
 # Load the data from ex2data.json and ex2task.json
-def time_binary_search(arr, target, task_num):
-    """
-    Time the performance of binary search on the given array for the given task number.
-    :param arr: The array to search.
-    :param target: The value to search for.
-    :param task_num: The task number.
-    :return: The best midpoint for the task and the time taken for that midpoint.
-    """
-    task = tasks[str(task_num)]
-    midpoints = task['midpoints']
-    best_time = float('inf')
-    best_midpoint = None
-    
-    for midpoint in midpoints:
-        start_time = time.time()
-        binary_search(arr, target, midpoint)
-        end_time = time.time()
-        time_taken = end_time - start_time
-        
-        if time_taken < best_time:
-            best_time = time_taken
-            best_midpoint = midpoint
-    
-    return best_midpoint, best_time
-
-# Load the data from ex2data.json and ex2task.json
-# Load the data from ex2data.json and ex2task.json
-# Load the data from ex2data.json and ex2task.json
-# Load the data from ex2data.json and ex2task.json
-# Load the data from ex2data.json and ex2task.json
-# Load the data from ex2data.json and ex2task.json
-with open('ex2data.json', 'r') as f:
-    data = json.load(f)
-    data = [{str(k): v for k, v in d.items()} for d in data] # Convert keys to strings for each dictionary in the list
-
-with open('ex2tasks.json', 'r') as file:
-    tasks = json.load(file)
-    tasks = [{str(k): v for k, v in d.items()} for d in tasks] # Convert keys to strings for each dictionary in the list
-
-# List to store chosen midpoints for each task
-midpoints = []
-
-# Time the performance of binary search for each task
-for i in range(1, 4):
-    task = tasks[i-1]
-    arr = data[task['data']]
-    target = task['target']
-    
-    best_midpoint, best_time = time_binary_search(arr, target, i)
-    
-    midpoints.append(best_midpoint)
-    print(f"Task {i}: Best midpoint is {best_midpoint} with time {best_time:.5f}")
-
-# Create scatter plot of task and corresponding chosen midpoint
-plt.scatter(range(1, 4), midpoints)
-plt.xlabel('Task')
-plt.ylabel('Chosen Midpoint')
-plt.title('Chosen Midpoints for Binary Search')
-plt.show()
 
 
-
-def binary_search(arr, target, first_midpoint=None):
+def binary_search(data, target, midpoint):
     """
     Perform a binary search on the given array to find the target value.
     :param arr: The array to search.
@@ -74,21 +14,90 @@ def binary_search(arr, target, first_midpoint=None):
     :return: The index of the target value, or -1 if not found.
     """
     left = 0
-    right = len(arr) - 1
-    
-    if first_midpoint is None:
-        midpoint = (left + right) // 2
-    else:
-        midpoint = first_midpoint
-    
+    right = len(data) - 1
+
     while left <= right:
-        if arr[midpoint] == target:
+        if data[midpoint] == target:
             return midpoint
-        elif arr[midpoint] < target:
+        elif data[midpoint] < target:
             left = midpoint + 1
         else:
             right = midpoint - 1
-            
+
         midpoint = (left + right) // 2
-    
+
     return -1
+
+
+def time_binary_search(arr, task, midpoints):
+    """
+    Time the performance of binary search on the given array for the given task number.
+    :param arr: The array to search.
+    :param target: The value to search for.
+    :param task_num: The task number.
+    :return: The best midpoint for the task and the time taken for that midpoint.
+    """
+    best_time = -1
+    best_midpoint = 0
+    target = task['target']
+    for midpoint in midpoints:
+        time_taken = timeit(lambda: binary_search(
+            arr, target, midpoint), number=100)
+        task['timeList'].append(time_taken)
+        if time_taken < best_time or best_time == -1:
+            best_time = time_taken
+            best_midpoint = midpoint
+
+    task['bestMid'] = best_midpoint
+    task['bestTime'][0] = best_time
+    task['bestTime'][1] = timeit(lambda: binary_search(
+        arr, target, (len(data)//2)), number=100)
+    return best_midpoint, best_time
+
+
+# Load the data from ex2data.json and ex2task.json
+with open('ex2data.json', 'r') as f:
+    data = json.load(f)
+    # Convert keys to strings for each dictionary in the list
+    # data = [{str(k): v for k, v in d.items()} for d in data]
+
+with open('ex2tasks.json', 'r') as file:
+    tasks = json.load(file)
+    # Convert keys to strings for each dictionary in the list
+    tasks = [{'target': d,
+              'bestMid': 0,
+              'bestTime': [0, 0],
+              'timeList': []} for d in tasks]
+
+# List to store chosen midpoints for each task
+midpoints = [i*50000 + 50000 for i in range(0, 19)]
+# Time the performance of binary search for each task
+for i, task in enumerate(tasks):
+    best_midpoint, best_time = time_binary_search(data, task, midpoints)
+
+    print(
+        f"Task {i}: Best midpoint is {best_midpoint} with time {best_time:.6f}")
+
+# time list for times of the normal midpoint
+timeNMList = [task['bestTime'][1] for task in tasks]
+
+# time list for times of the best midpoint
+timeBMList = [task['bestTime'][0] for task in tasks]
+
+MPList = [task['bestMid'] for task in tasks]
+
+test = [task['target'] for task in tasks]
+plt.figure(1)
+plt.scatter(test, MPList)
+plt.yticks([i*50000 + 50000 for i in range(0, 19)])
+
+plt.figure(2)
+plt.scatter(range(0, len(tasks)), timeNMList, label="Normal midpoint")
+plt.scatter(range(0, len(tasks)), timeBMList, label="Best midpoint")
+
+
+plt.xlabel('Task')
+plt.ylabel('Time for best midpoint')
+plt.title('Chosen Midpoints for Binary Search')
+plt.legend()
+plt.show()
