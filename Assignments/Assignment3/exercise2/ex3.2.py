@@ -87,17 +87,24 @@ timeBMList = [task['bestTime'][0] for task in tasks]
 MPList = [task['bestMid'] for task in tasks]
 
 test = [task['target'] for task in tasks]
+
 plt.figure(1)
 plt.scatter(test, MPList)
 plt.yticks([i*50000 + 50000 for i in range(0, 19)])
+
+plt.xlabel('Task target')
+plt.ylabel('Best midpoint')
+plt.title('Best midpoint for given target value')
+# plt.legend()
+
 
 plt.figure(2)
 plt.scatter(range(0, len(tasks)), timeNMList, label="Normal midpoint")
 plt.scatter(range(0, len(tasks)), timeBMList, label="Best midpoint")
 
-
 plt.xlabel('Task')
 plt.ylabel('Time for best midpoint')
 plt.title('Chosen Midpoints for Binary Search')
 plt.legend()
+
 plt.show()
